@@ -2,6 +2,11 @@
 
 To-Do List App Done following Osama Elzero tutorial.
 
-This project is Made using HTML, CSS, and Javascript.
+App Features : 
+- Add Tasks 
+- Mark Completed Tasks
+- Delete Tasks 
+- Count The Completed Tasks
+- Count The Total Tasks
 
-This Project Focuses on practicing javascript and DOM.
+This project is Made using HTML, CSS, and Javascript and Focuses on practicing javascript and DOM.
